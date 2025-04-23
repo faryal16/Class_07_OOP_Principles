@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+env/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore egg-info folder
+*.egg-info/
+
+# Ignore build folder (if applicable)
+build/
+
+# Ignore other unwanted files (optional)
+*.log
