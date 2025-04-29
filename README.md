@@ -27,13 +27,13 @@ Ensure you have Python 3.x installed on your system. You can download Python fro
 
    Change to the project directory:
 
-   **`cd Class7 StudySync`**
+   **`cd Class_07_OOP_Principles`**
 
 3. **Install Dependencies**:
 
    Install the required dependencies using pip:
 
-   **`pip install -r requirements.txt`**
+   **`pip install termcolor`**
 
    The dependencies are:
 
